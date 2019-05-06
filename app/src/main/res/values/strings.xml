@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BottomNavigationViewPager</string>
+    <string name="title_fragment_1">фрагмент 1</string>
+    <string name="title_fragment_2">фрагмент 2</string>
 </resources>
